@@ -68,6 +68,8 @@ This project is configured to generate comprehensive execution reports using [Mo
 
 The **Page Object Model (POM)** pattern is implemented throughout this project to decouple page element locators and interaction logic from the test assertions. This architectural approach enhances test readability, reduces code duplication, and simplifies long-term test maintenance when UI components change.
 
+Inspired by Erick Araujo's project.
+
 ------------------------------------------------------------------------- 
 
 # Cypress PageObject SauceDemo (Español)
